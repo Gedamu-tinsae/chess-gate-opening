@@ -79,13 +79,13 @@ Welcome to this versatile Chess Game project! Built using Python and Pygame, it 
 ## File Structure
 ```
 ├── rootfolder/            # Resources for the game
-├── pieces/                # Piece images and themes
-├── sounds/                # Sound files
-├── stockfish/             # Stockfish engine
-├── the_board.py           # Core game logic
-├── the_menu.py            # Settings menu and rules
-├── server.py              # Online multiplayer server logic
-├── client.py              # Online multiplayer client logic
+   ├── pieces/                # Piece images and themes
+   ├── sounds/                # Sound files
+   ├── stockfish/             # Stockfish engine
+   ├── the_board.py           # Core game logic
+   ├── the_menu.py            # Settings menu and rules
+   ├── server.py              # Online multiplayer server logic
+   ├── client.py              # Online multiplayer client logic
 ```
 
 ## Running Multiplayer
